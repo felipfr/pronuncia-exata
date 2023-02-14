@@ -1,0 +1,16 @@
+#mensagem {
+  color: #31d2f2;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#audioplayer {
+  width: 240px;
+  text-align: center;
+}
+
